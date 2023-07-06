@@ -1,0 +1,13 @@
+body {background-color: red;}
+
+.colorete { color: yellow}
+
+body { background-image: url(../imagenes/leo.png );
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+.objeto1 {background-color: red;}
+.objeto2 {background-color: blue;}
+.objeto3 {background-color: green;}
